@@ -1,2 +1,3 @@
-# SoftRooks-Roadmaps
-Software Roadmaps
+# Software Rookies repository
+
+Software Rookies is a community of experienced and inexperienced developers that share knowledge by asking questions, answering, completing tests and challenges, discussing about programming languages and technologies. We all learn from each other. We always try to improve no matter how experienced and knowledgeable we are (that's why the 'Rookies' part). We are always willing to help.
